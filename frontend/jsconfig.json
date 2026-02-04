@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@/*": ["*"]
+    },
+    "jsx": "react-jsx"
+  },
+  "include": ["src"]
+}
+// jsconfig.json dung de cau hinh duong dan tuy chinh cho cac tep JavaScript trong du an frontend. Vi du call @/components se duoc quy ve src/components.
